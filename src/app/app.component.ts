@@ -21,5 +21,5 @@ import { MenuComponent } from './shared/components/menu/menu.component';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  isCollapsed = false;
+  title = 'Atividades'
 }
